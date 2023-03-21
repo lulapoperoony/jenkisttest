@@ -2,4 +2,7 @@ This is file 2 and this is some more text
 
 Added text for pull 2
 
+
 Added for pull4 
+
+Added for pull3
